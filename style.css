@@ -1,0 +1,54 @@
+
+.head-txt {
+    color:#003319;
+    
+}
+.main-txt{
+    width: 100%;
+  
+    border: 3px solid #003319;
+    background-color: rgba(0,0,0,.075);
+}
+.btn-clr{
+    background-color:white;
+  color:#003319;
+    
+    
+    width: 50%;
+    border: 2px solid #003319;
+border-top-left-radius: 5%;
+border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+border-bottom-left-radius: 5%;
+        margin-left: 25%;
+
+}
+
+.top-bg{
+    background-image: url(bac.png);
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.top-bgc{
+    background-image: url(bac.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+  height: 20%;
+}
+.descrip-colr{
+    
+    background-color: white;
+    
+}
+mid-section{
+ height: 100%;
+    
+}
+
+
+.clr {
+color: #003319;
+    font-size: 25px;
+}
